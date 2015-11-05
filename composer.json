@@ -4,18 +4,25 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","windoface","gallery","yii2","yii2-gallery","yii2-gallery-viewer"],
     "license": "GPL-3.0+",
+	"homepage": "https://github.com/windoface/yii2-gallery-viewer",
     "authors": [
         {
             "name": "Kinggeorge Magaga",
             "email": "magagageorge@gmail.com"
         }
     ],
+    "repositories":[
+      {
+        "type": "git",
+        "url": "https://github.com/windoface/yii2-gallery-viewer"
+       }
+    ]	
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "~2.0.0",
     },
     "autoload": {
         "psr-4": {
-            "windoface\\galleryviewer\\": ""
+            "windoface\\galleryviewer\\": "src"
         }
     }
 }

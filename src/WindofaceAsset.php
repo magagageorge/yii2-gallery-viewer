@@ -8,7 +8,7 @@ use yii\web\AssetBundle;
 git init
 git add -A
 git commit
-git remote add origin https://path.to/your/repo
+git remote add origin https://github.com/windoface/yii2-gallery-viewer
 git push -u origin master
 
 
