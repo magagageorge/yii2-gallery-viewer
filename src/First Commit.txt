@@ -1,0 +1,30 @@
+First Commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Windoface
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   AutoloadExample.php
+#       new file:   README.md
+#       new file:   composer.json
+#       new file:   src/Carousel.php
+#       new file:   src/GalleryAsset.php
+#       new file:   src/GalleryViewer.php
+#       new file:   src/WindofaceAsset.php
+#       new file:   src/assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe
+.js
+#       new file:   src/assets/dosamigos-blueimp-gallery.js
+#       new file:   src/assets/imagesloaded/imagesloaded.pkgd.min.js
+#       new file:   src/assets/masonry/masonry.pkgd.min.js
+#       new file:   src/assets/mobirise-gallery/script.js
+#       new file:   src/assets/mobirise-gallery/style.css
+#       new file:   src/assets/mobirise-slider/style.css
+#       new file:   src/assets/mobirise/css/mbr-additional.css
+#       new file:   src/assets/mobirise/css/style.css
+#       new file:   src/assets/mobirise/js/script.js
+#       new file:   src/assets/smooth-scroll/SmoothScroll.js
